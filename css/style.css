@@ -1,0 +1,20 @@
+
+.header-back-color{
+    background-color: #FFFBF0;
+}
+.heading-color{
+    color:#FABE4C
+}
+.heading-span-color{
+    color: #363958;
+}
+.font-color{
+    color: #3C3C3C;
+    font-weight: 500;
+}
+.text-decorection{
+    text-decoration: none;
+}
+.btn-color{
+    background-image: linear-gradient(#A4BC46,#85A019);
+}

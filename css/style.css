@@ -18,3 +18,16 @@
 .btn-color{
     background-image: linear-gradient(#A4BC46,#85A019);
 }
+
+
+@media screen and (min-width:400px) and (max-width:768px){
+    
+    .cover-img-size{
+        position: relative;
+        left: 40px;
+        width: 50%;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+    }
+}
